@@ -1,5 +1,4 @@
 ---
-layout: standard
 author_profile: false
 ---
 # London Roller Derby
