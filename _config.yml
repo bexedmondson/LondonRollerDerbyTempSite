@@ -23,7 +23,7 @@ search: false
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 
 # Outputting
 permalink: /:categories/:title/
